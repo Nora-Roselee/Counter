@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.boxMother {
+  margin-top: 150px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.reset {
+  margin-top: 50px;
+}
+.number {
+  margin: 50px;
+}
